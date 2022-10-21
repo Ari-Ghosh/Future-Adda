@@ -1,0 +1,52 @@
+.InsPic
+{
+    margin-left: 20%;
+}
+.env
+{
+    display: flex;
+    justify-content: space-between;
+    align-content: right;
+    
+    
+}
+.WriteUp
+{
+    display: block;
+    align-items: center;
+    
+    margin: 40px;
+}
+.WriteUp h2
+{
+    font-size: 40px;
+    align-content: right;
+    padding-left:12%;
+}
+.para p
+{
+    font-size: 25px;
+    margin-right: 20%;
+}
+
+
+.btn-primary
+{
+    
+    background-color: black;
+    color: white;
+    height: 47px;
+    width: 173px;
+    font-size: 15px;
+    text-transform: bold ;
+    margin-left: 24%;
+    border-radius: 5px;
+    cursor: pointer;
+   
+}
+.btn-primary:hover
+{
+    background-color: rgb(57, 54, 54);
+}
+
+
