@@ -1,7 +1,5 @@
 import React  from 'react'
 import login from '../LOGIN/login'
-
-
 import Logo from '/Users/arpan/Desktop/futureAdda/frontend/src/logo1.png'
 import Shop from '/Users/arpan/Desktop/futureAdda/frontend/src/Shopping Cart.png'
 import Styles from '../HOME/Styles.css'
