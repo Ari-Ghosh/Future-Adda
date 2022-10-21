@@ -1,0 +1,105 @@
+.nav-menu{
+     width: 1440px;
+    height: 72px;
+    background: #ffffff;
+    padding:0 24px 0 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    z-index: 1010;
+    transform:none;
+    transition: all 0s ease 0s;
+    box-sizing: border-box;
+    box-shadow: #ffffff;
+}
+.navbig{
+    align-items:center
+}
+#cat{
+    left: 20%;
+}
+.search{
+    font: size 14px;
+    background-color: #F7F9FA;
+    background-position: 0% 0%;
+    color:#1C1D1F;
+    height:48px;
+    width:656.734px;
+    border:1px solid #000000;
+    margin:0 12px 0 12px;
+    min-height: auto;
+    min-width: 180px;
+    position: relative;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    display: block;
+    box-sizing: border-box;
+    border-top-left-radius: 9999px;
+    border-top-right-radius: 9999px;
+    border-bottom-left-radius: 9999px;
+    border-bottom-right-radius: 9999px;
+
+}
+.btn1{
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: -0.2px;
+    line-height: 16.8px;
+    text-decoration: none solid rgb(28, 29, 31);
+    
+    white-space: nowrap;
+  
+    
+    background-position: 0% 0%;
+    color:  #1C1D1F;
+    height: auto;
+    width: auto;
+    border: 1px solid  #1C1D1F;
+    padding: 0 12px 0 12px;
+    min-width: auto;
+    min-height:auto;
+    position: relative;
+  
+    display: block;
+    cursor: pointer;
+    box-sizing: border-box;
+    transform: none;
+    transition: all 0s ease 0s;
+}
+.btn1:hover {
+    background: black;
+    color: white;
+  }
+.btn2{
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: -0.2px;
+    line-height: 16.8px;
+    text-decoration: none solid rgb(28, 29, 31);
+    
+    white-space: nowrap;
+  
+    
+    background-position: 0% 0%;
+    color:  #1C1D1F;
+    height: auto;
+    width: auto;
+    border: 1px solid  #1C1D1F;
+    padding: 0 12px 0 12px;
+    min-width: auto;
+    min-height:auto;
+    position: relative;
+  
+    display: block;
+    cursor: pointer;
+    box-sizing: border-box;
+    transform: none;
+    transition: all 0s ease 0s;
+}
