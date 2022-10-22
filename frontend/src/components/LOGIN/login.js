@@ -1,11 +1,11 @@
 import React  from 'react'
 
-import Logo from '/Users/arpan/Desktop/futureAdda/frontend/src/logo1.png'
-import Shop from '/Users/arpan/Desktop/futureAdda/frontend/src/Shopping Cart.png'
+import Logo from '../HOME/images/logo.png'
+import Shop from '../HOME/images/Shopping Cart.png'
 import Styles from '../HOME/Styles.css'
 
 
-import Home from '../HOME/home'
+import Home from '../HOME/Home'
 
 
 
