@@ -6,9 +6,6 @@ import Styles from '../HOME/Styles.css'
 
 import Home from './Home'
 
-
-
-
 export default function Navigation() {
   return (
     <div className="nav-container">
