@@ -1,13 +1,10 @@
 import React  from 'react'
 import login from '../LOGIN/login'
-import Logo from '/Users/arpan/Desktop/futureAdda/frontend/src/logo1.png'
-import Shop from '/Users/arpan/Desktop/futureAdda/frontend/src/Shopping Cart.png'
+import Logo from '../HOME/images/logo.png'
+import Shop from '../HOME/images/Shopping Cart.png'
 import Styles from '../HOME/Styles.css'
 
-import Home from './home'
-
-
-
+import Home from './Home'
 
 export default function Navigation() {
   return (
