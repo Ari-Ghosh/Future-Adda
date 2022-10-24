@@ -1,11 +1,11 @@
 import React  from 'react'
 
-import Logo from '../HOME/images/logo.png'
-import Shop from '../HOME/images/Shopping Cart.png'
-import Styles from '../HOME/Styles.css'
+import Logo from '../../logo.png'
+import Shop from '../../Shopping Cart.png'
+// import Styles from '../HOME/Styles.css'
 
 
-import Home from '../HOME/Home'
+// import Home from '../HOME/Home'
 
 
 
