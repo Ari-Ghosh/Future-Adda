@@ -1,12 +1,14 @@
-import React  from 'react'
+import React, { useState }  from 'react'
 import login from '../LOGIN/login'
-import Logo from '../HOME/images/logo.png'
-import Shop from '../HOME/images/Shopping Cart.png'
-import Styles from '../HOME/Styles.css'
+import Logo from '../../logo.png'
+import Shop from '../../Shopping Cart.png'
+import '../HOME/Styles.css'
+import LoginApp from '../LOGIN/LoginApp'
 
-import Home from './Home'
+
 
 export default function Navigation() {
+  const [loginState ,setLogin] = useState(false);
   return (
     <div className="nav-container">
         <div className="wrapper">
@@ -30,7 +32,7 @@ export default function Navigation() {
                     <img style={{ height:30}} src={Shop} alt="shop" />
                     {" "}
                   </a>
-                  <a href={login} className="btn1">Log in</a>
+                  <a href={""}  className="btn1">Log in</a>
                   <a href={""} className="btn2">Sign up</a>
         
                   
