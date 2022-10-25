@@ -31,7 +31,9 @@
 {
     color: black;
     padding-bottom: 30px;
+    font-size: 20px;
 }
+
 .btn-busi:hover
 {
     background-color: rgb(57, 54, 54);
