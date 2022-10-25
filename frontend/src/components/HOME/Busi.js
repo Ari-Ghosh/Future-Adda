@@ -12,7 +12,7 @@ export default function Busi()
             <div className="WriteUp2">
                 <img src={business} className="Lab" alt="business"/>
                 <div className="para2">
-                    <p><b>Get unlimited access to 17,000+ of Future Adda's top courses for your team. Learn and improve skills across business, tech, design, and more.</b></p>
+                    <p>Get unlimited access to 17,000+ of Future Adda's top courses for your team. Learn and improve skills across business, tech, design, and more.</p>
                     <button className="btn-busi" >Get FA Business</button> 
                 </div>
             </div>
