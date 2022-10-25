@@ -16,7 +16,7 @@
     margin: 2%;
 }
 
-.btn{
+.btn-busi{
     background-color: black;
     color: white;
     height: 37px;
@@ -27,7 +27,12 @@
     border-radius: 5px;
     cursor: pointer;
 }
-.btn:hover
+.para2 > p
+{
+    color: black;
+    padding-bottom: 30px;
+}
+.btn-busi:hover
 {
     background-color: rgb(57, 54, 54);
 }
