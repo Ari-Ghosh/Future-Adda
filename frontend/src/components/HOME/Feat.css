@@ -25,9 +25,10 @@
     padding-bottom: 1.5px;
 
 }
-.container {
+.container_feat {
     display: flex;
     align-items: center;
+    flex-direction: row;
     padding-left: 300px;
     padding-right: 300px;
     justify-content: space-between;
@@ -38,11 +39,11 @@
 {
     padding-top: 10px;
     padding-left: 620px;
-    background-color:wheat;
+    background-color: wheat;
     
 }
 .big-guy
 {
     display: block;
-    background-color:wheat;
+    background-color: wheat;
 }
