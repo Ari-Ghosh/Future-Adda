@@ -30,9 +30,7 @@
 }
 
 
-.btn-primary
-{
-    
+.btn-primary-inst{
     background-color: black;
     color: white;
     height: 47px;
@@ -41,12 +39,11 @@
     text-transform: bold ;
     margin-left: 24%;
     border-radius: 5px;
-    cursor: pointer;
-   
+    cursor: pointer;  
 }
-.btn-primary:hover
+/* .btn-primary:hover
 {
     background-color: rgb(57, 54, 54);
-}
+} */
 
 
