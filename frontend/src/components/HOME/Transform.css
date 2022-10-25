@@ -20,18 +20,21 @@
 }
 .WriteUp h2
 {
-    font-size: 30px;
+    font-size: 40px;
     align-content: right;
     padding-left:12%;
 }
 .para p
 {
-    font-size: 25px;
-    margin-right: 20%;
+    font-size: 20px;
+    padding-left: 8%;
+    color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 
-.btn-primary
+.btn-primary-transform
 {
     
     background-color: black;
@@ -40,12 +43,11 @@
     width: 173px;
     font-size: 15px;
     text-transform: bold ;
-    margin-left: 24%;
+    margin-left: 31%;
     border-radius: 5px;
-    cursor: pointer;
-   
+    cursor: pointer;   
 }
-.btn-primary:hover
+.btn-primary-transform:hover
 {
     background-color: rgb(57, 54, 54);
 }
